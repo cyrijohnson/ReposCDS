@@ -85,6 +85,14 @@ namespace CS_PROJECT_steganography
             }
         }
 
+
+
+
+
+
+
+
+
         private void tabPage1_Click(object sender, EventArgs e)
         {
             
